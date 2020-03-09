@@ -1,0 +1,8 @@
+﻿  Dijkstra Algorithm.cpp
+E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm.cpp(170): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm.cpp(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dijkstra Algorithm.vcxproj -> E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Release\Dijkstra Algorithm.exe

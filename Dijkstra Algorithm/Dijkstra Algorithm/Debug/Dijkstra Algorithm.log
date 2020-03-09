@@ -1,0 +1,4 @@
+﻿  Dijkstra Algorithm.cpp
+E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm.cpp(170): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm\Dijkstra Algorithm.cpp(174): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Dijkstra Algorithm.vcxproj -> E:\Studia\CP\CP3\Labki\Projekt\Dijkstra Algorithm\Dijkstra Algorithm\Debug\Dijkstra Algorithm.exe
